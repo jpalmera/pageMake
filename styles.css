@@ -1,0 +1,27 @@
+body {
+  background: url("barranquilla0.jpg") slategray fixed no-repeat center;
+  font-family: "Marck Script", cursive;
+}
+
+.container {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  text-align: center;
+  color: #fff;
+}
+
+.image {
+  width: 142px;
+  height: 158px;
+  border: 5px solid #fff;
+  border-radius: 50%;
+}
+.text {
+  text-shadow: 3px 3px 5px black;
+}
